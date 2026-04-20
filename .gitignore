@@ -1,0 +1,10 @@
+.env
+backend/bible_kjv.json
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+venv/
+*.egg-info/
+dist/
+build/
